@@ -1,0 +1,16 @@
+{
+  "short_name": "Greenify",
+  "name": "Greenify Indonesia Reforestasi",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f2f5f0",
+  "theme-color": "#166534",
+  "display": "standalone",
+  "orientation": "portrait"
+}
